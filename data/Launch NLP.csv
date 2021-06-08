@@ -1,0 +1,131 @@
+Description,Title
+"India is the world's third-largest producer and third largest consumer of electricity. The national electric grid in India has an installed capacity of 370.106 GW as of 31 March 2020. Renewable power plants, which also include large hydroelectric plants, constitute 35.86% of India's total installed capacity.
+India has a surplus power generation capacity but lacks adequate distribution infrastructure.
+
+India's electricity sector is dominated by fossil fuels, in particular coal, which during the 2018-19 fiscal year produced about three-quarters of the country's electricity. The government is making efforts to increase investment in renewable energy. The government's National Electricity Plan of 2018 states that the country does not need more non-renewable power plants in the utility sector until 2027, with the commissioning of 50,025 MW coal-based power plants under construction and addition of 275,000 MW total renewable power capacity after the retirement of nearly 48,000 MW old coal-fired plants.
+
+India has recorded rapid growth in electricity generation since 1985, increasing from 179 TW-hr in 1985 to 1,057 TW-hr in 2012. The majority of the increase came from coal-fired plants and non-conventional renewable energy sources (RES), with the contribution from natural gas, oil, and hydro plants decreasing in 2012-2017. The gross utility electricity generation (excluding imports from Bhutan) was 1,384 billion kWh in 2019-20, representing 1.0 % annual growth compared to 2018-2019. The contribution from renewable energy sources was nearly 20% of the total. In the year 2019-20, all the incremental electricity generation is contributed by renewable energy sources as the power generation from fossil fuels decreased.
+The drivers for India's electricity sector are its rapidly growing economy, rising exports, improving infrastructure, and increasing household incomes.",Daily Power Generation in India (2017-2020)
+"Renewables Reporting
+Our renewables reports provide important information about actual renewable energy within the ISO grid as California moves towards a 33 percent renewable generation portfolio. The reports use raw data and are not intended to be used as the basis for operational or financial decisions.
+
+Content
+The dataset has hourly reports on the power production from various power sources (measured in megawatts).
+
+GEOTHERMAL
+BIOMASS
+BIOGAS
+SMALL HYDRO
+WIND TOTAL
+SOLAR PV
+SOLAR THERMAL",California Renewable Production 2010-2018
+"Context
+This will act as the base data for the investigation into the possible solutions for the UK energy requirements
+
+Content
+A cleaned version of the UK statistics on renewable energy generation.",Renewable Energy Generated in the UK
+"Curious about the growth of wind energy? The extent to which the decline of coal is an American or international trend? Interested in using energy consumption as an alternate method of comparing national economies? This dataset has you covered.
+
+The Energy Statistics Database contains comprehensive energy statistics on the production, trade, conversion and final consumption of primary and secondary; conventional and non-conventional; and new and renewable sources of energy.",International Energy Statistics
+"Context
+In a paper released early 2019, forecasting in energy markets is identified as one of the highest leverage contribution areas of Machine/Deep Learning toward transitioning to a renewable based electrical infrastructure.
+
+Content
+This dataset contains 4 years of electrical consumption, generation, pricing, and weather data for Spain. Consumption and generation data was retrieved from ENTSOE a public portal for Transmission Service Operator (TSO) data. Settlement prices were obtained from the Spanish TSO Red Electric España. Weather data was purchased as part of a personal project from the Open Weather API for the 5 largest cities in Spain and made public here.",Hourly energy demand generation and weather
+"Context
+This is mostly just an attempt to create my first dataset. I love renewable energy and I thought this may be useful to people trying to predict cost, growth, or adoption of energy generated from renewable energy sources.
+
+Content
+What's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.
+Inside you'll find a month-by-month breakdown of the total energy produced (in the United States), across multiple renewable energy sources. The data spans from January 2001 to November 2016.",EIA Energy Generation From Renewables
+"Context
+Climate change refers to both global warming driven by human emission of greenhouse gases, as well as the rise in environmental disasters induced by said warming. For the past few decades, this issue has been a plague on the conscious of humanity, as it grapples over how to handle this existential threat. On one hand, the scientific community is frustrated by the lack of initiative by governments to curb fossil fuel emissions and widespread mortality, which is projected to happen by the end of the century. On the other, policymakers have to strike a precarious balance between meeting short-term needs, such as ensuring annual economic growth and low unemployment, as well as long-term planning against the effects of climate change, through measures such as renewable energy investment and reforestation.
+
+Climate change policies, unfortunately, often do not lend themselves to immediate economic advantage, and in fact usually have significant costs associated with them. For instance, renewable energies require a sizable initial investment to reach scale, and have only recently become competitive with fossil fuel production costs. Another point of contention for climate change policies are the inequities associated with them. In my opinion, these can be broadly surmised into two questions, namely:
+
+1) How can we ensure that the positive impact of climate change measures will affect all demographics, especially the most vulnerable?
+
+2) How do we prevent the economic drawbacks of climate change policies from harming those from lower socio-economic groups?
+
+For question 2, for instance, a national shift from fossil fuel to renewable energy sources may hurt the manufacturing sector, which could result in the loss of many blue-collar jobs.",Compiled datasets for CDP Analytics Competition
+"This data has been gathered at two solar power plants in India over a 34 day period. It has two pairs of files - each pair has one power generation dataset and one sensor readings dataset. The power generation datasets are gathered at the inverter level - each inverter has multiple lines of solar panels attached to it. The sensor data is gathered at a plant level - single array of sensors optimally placed at the plant.
+
+There are a few areas of concern at the solar power plant -
+
+Can we predict the power generation for next couple of days? - this allows for better grid management
+Can we identify the need for panel cleaning/maintenance?
+Can we identify faulty or suboptimally performing equipment?",Solar Power Generation Data
+"Renewable energy sources like hydropower, solar, wind, geothermal and modern biofuel production for all the countries from the year 1965 to 2018
+
+The source of the data http://www.bp.com/statisticalreview","Renewable energy generation, World, 1965 to 2018"
+"Context
+Here's data of a certain windmill. The aim was to predict the wind power that could be generated from the windmill for the next 15 days. A long term wind forecasting technique is thus required.
+
+Content
+It contains various weather, turbine and rotor features. Data has been recorded from January 2018 till March 2020. Readings have been recorded at a 10-minute interval.",Wind Power Forecasting
+"Context
+India is the world's third-largest producer and third-largest consumer of electricity. The national electric grid in India has an installed capacity of 370.106 GW as of 31 March 2020. Renewable power plants, which also include large hydroelectric plants, constitute 35.86% of India's total installed capacity. During the 2018-19 fiscal year, the gross electricity generated by utilities in India was 1,372 TWh and the total electricity generation (utilities and non-utilities) in the country was 1,547 TWh. The gross electricity consumption in 2018-19 was 1,181 kWh per capita.
+In 2015-16, electric energy consumption in agriculture was recorded as being the highest (17.89%) worldwide. The per capita electricity consumption is low compared to most other countries despite India having a low electricity tariff.
+
+In light of the recent COVID-19 situation, when everyone has been under lockdown for the months of April & May the impacts of the lockdown on economic activities have been faced by every sector in a positive or a negative way.
+With the electricity consumption being so crucial to the country, we came up with a plan to study the impact on energy consumption state and region wise.
+
+The dataset is exhaustive in its demonstration of energy consumption state wise.
+
+Content
+Data is in the form of a time series for a period of 17 months beginning from 2nd Jan 2019 till 23rd May 2020.
+Rows are indexed with dates and columns represent states.
+Rows and columns put together, each datapoint reflects the power consumed in Mega Units (MU) by the given state (column) at the given date (row).",Power consumption in India(2019-2020)
+"Context
+Sample data for renewable energy incident detection research",Renewable energy incident detection
+"Problem statement
+
+It is the year 2021 and we are at the verge of a massive climatic change. With global warming at its peak and fossil fuels inching towards its extinction, it is the need of the hour to step up and take responsibility for our planet. Developing countries all over the world are making a shift towards a cleaner energy source and are looking at ways to expand their global energy source power.
+
+Switching to renewable energy sources is a great way to reduce dependency on imported fuels and increase cost efficiency. It is time we move towards a low-carbon future by embracing solar, hydro, geothermal energy and so on, to protect mother nature.
+
+An efficient energy source that has been gaining popularity around the world is wind turbines. Wind turbines generate power by capturing the kinetic energy of the wind. Factors such as temperature, wind direction, turbine status, weather, blade length, and so on influence the amount of power generated.",A Fine Windy Day
+"Context
+The energy network of the Netherlands is managed by a few companies. Every year, these companies release on their websites a table with the energy consumption of the areas under their administration. The companies are
+
+Enexis
+Liander
+Stedin
+Enduris
+Westlandinfra
+Rendo
+Coteq
+The data are anonymized by aggregating the Zipcodes so that every entry describes at least 10 connections.
+
+This market is not competitive, meaning that the zones are assigned. This means that every year they roughly provide energy to the same zipcodes. Small changes can happen from year to year either for a change of management or for a different aggregation of zipcodes.",Energy consumption of the Netherlands
+"This dataset is from the National Renewable Energy Laboratory, as a part of the Department of Energy's Open Energy Data Initiative (OEDI). It consists of 1 million Solar Cell Systems along with 78 columns of information on each system. Missing data are coded in the database as -9999.",Solar Panel PV System Dataset
+This dataset about Electricity Renewable Total 1980-2015 is extracted from Flourish visualisation. If you want to know more about Flourish click here.,Electricity Renewable Total 1980-2015
+"Context
+Information about the four German Transmission System Operators (TSOs) jointly publish as well as general information about the transmission system.
+
+Content
+Wind power generation from four German energy companies (50 Hertz, Amprion, TenneT TSO and TransnetBW). It contains power generation data (non-normalized) with an interval of 5 minutes, totalizing 96 points a day.",Wind Power Generation Data
+"The TMY3s are data sets of hourly values of solar radiation and meteorological elements for a 1-year period. Their intended use is for computer simulations of solar energy conversion systems and building systems to facilitate performance comparisons of different system types, configurations, and locations in the United States and its territories. Because they represent typical rather than extreme conditions, they are not suited for designing systems to meet the worst-case conditions occurring at a location.
+
+Please note that TMY3 is NOT the state of the art solar data. It was used as a key component of investment analyses for several years, but NREL has released a more recent version based on satellite data and updated meteorological models that provides coverage for the entire United States. That dataset is much too large to publish here, but is highly recommended if you need the best information.
+
+Content
+Please see the pdf manual for full details of each field; there are several dozen of them.
+It's important to know that nearly all of the solar data is modeled based on estimates of cloud cover; less than 1% of the stations directly measured sunlight.
+This data is not appropriate for time series analysis. A typical meteorological year is literally twelve months of real data from twelve different years. Please see the manual for further details.
+Acknowledgements",TMY3 Solar
+"Context
+A geo-spatial layer depicting the approximate location of waste collection points as of November 2015
+Note that as part of the attribution of this data under the CC BY licence terms with which it is supplied, users should include the following statement: 'The information is provided to assist in field investigations. All locations, dimensions and depths shown are to be confirmed on site'.
+The City of Gold Coast is not a professional information provider and makes no representations or warranties about the accuracy, reliability, completeness or suitability for any particular purpose of the Data provided here. This Data is not provided with the intent that any person will rely on it for the purpose of making decisions with financial or legal implications. Persons who place such reliance on the Data do so at their own risk.
+
+https://data.gov.au/dataset/ds-dga-7a856b87-bebf-4cd5-8430-bae44b01beab/details?q=waste
+
+Content
+A geo-spatial layer depicting the approximate location of waste collection points.",Gold Coast City - Waste Collection Points.
+"Context
+Space Apps Moscow was held on April 29th & 30th. Thank you to the 175 people who joined the International Space Apps Challenge at this location!
+
+Content
+The dataset contains such columns as: ""wind direction"", ""wind speed"", ""humidity"" and temperature. The response parameter that is to be predicted is: ""Solar_radiation"". It contains measurements for the past 4 months and you have to predict the level of solar radiation.
+Just imagine that you've got solar energy batteries and you want to know will it be reasonable to use them in future?",Solar Radiation Prediction
