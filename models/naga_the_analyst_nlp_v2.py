@@ -22,7 +22,7 @@ import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 warnings.filterwarnings("ignore", category=UserWarning)
 
-data = pd.read_csv("D:/Launch NLP.csv")["Description"]
+data = pd.read_csv("data:/Launch NLP.csv")["Description"]
 # print(data)
 data_1 = []
 for value in data:
