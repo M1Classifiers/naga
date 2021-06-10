@@ -25,6 +25,7 @@ def univariate_visualization(df):
                 plt.ylabel('Frequency', fontsize = 25)          
     plt.show()
     
-    def plot(csv_loc):
+    
+def plot(csv_loc):
     df = pd.read_csv(csv_loc, index_col = 0)
     univariate_visualization(df)
