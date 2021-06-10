@@ -61,9 +61,9 @@ def univariate_visualization(df, save_to, save_as):
                 plt.savefig(save_to + save_as + '.jpeg')
     #plt.show()
     
-    def plot(csv_loc, save_to, save_as):
-        df = pd.read_csv(csv_loc)
-        num_dtype_checker(df)
-        drop_duplicate_index_col(df)
-        univariate_visualization(df, save_to, save_as)
+def plot(csv_loc, save_to, save_as):
+    df = pd.read_csv(csv_loc)
+    num_dtype_checker(df)
+    drop_duplicate_index_col(df)
+    univariate_visualization(df, save_to, save_as)
     
